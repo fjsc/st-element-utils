@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "declaration": true,
+      "declarationMap": true,
+      "declarationDir": "dist",
+      "module": "ESNext",
+      "target": "ESNext",
+      "sourceMap": true,
+      "experimentalDecorators": true,
+      "moduleResolution": "node"
+    },
+    "exclude": ["node_modules"]
+  }
+  
